@@ -1,0 +1,7 @@
+.blue-box{
+  background-color: #007baf;
+}
+.center-card {
+  display: flex;
+  justify-content: center;
+}
